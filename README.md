@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parth-Bisht-227
 - 👀 I’m interested in programming and learning new things!
-- 🌱 I have  learnt some concepts in C++(DSA) and C languages.I have dived into Deep Learning and ML using Python as well!
+- 🌱 I have  learnt many concepts of Data Structures & Algorithms in JAVA,C++ and C languages.I have dived into Deep Learning and ML using Python as well!
 - ⚡ I've also dived into game-dev by learning Unity. 🌟
 - 🌟 Currently I'm learning DSA in JAVA & exploring other new tech stacks! 
 - 📫 How to reach me -- > bishtparth227@gmail.com
