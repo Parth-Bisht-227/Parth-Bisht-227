@@ -5,7 +5,7 @@ I bridge the gap between **Deep Learning research** and **shipping products**. I
 
 - 🔭 **Currently working on:** [Manga-Splasher](https://github.com/Parth-Bisht-227/manga-splasher) (Iterating on a Pix2Pix GAN to colorize manga).
 - 🗣️ **Challenge:** Building 10 Voice Agents in 10 Days (Murf AI Challenge).
-- 🇯🇵 **Goal:** Studying for **JLPT N4** & seeking AI Engineering Internships in Tokyo/Remote.
+- 🇯🇵 **Goal:** Studying for **JLPT N5,N4** & seeking AI Engineering Internships in Tokyo/Remote.
 
 ### 🛠️ The Arsenal
 | Domain | Tech Stack |
