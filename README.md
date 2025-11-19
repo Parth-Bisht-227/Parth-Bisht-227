@@ -1,13 +1,19 @@
-- 👋 Hi, I’m @Parth-Bisht-227
-- 👀 I’m interested in programming and learning new things!
-- 🌱 I have  learnt many concepts of Data Structures & Algorithms in JAVA,C++ and C languages.I have dived into Deep Learning and ML using Python as well!
-- ⚡ I've also dived into game-dev by learning Unity. 🌟
-- 🌟 Currently I'm learning DSA in JAVA & exploring other new tech stacks! 
-- 📫 How to reach me -- > bishtparth227@gmail.com
-Stay Happy
-Keep Learning!
-Keep Creating! 
-<!---
-Parth-Bisht-227/Parth-Bisht-227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Parth Bisht. 👋
+### GenAI Engineer & Product Builder.
+
+I bridge the gap between **Deep Learning research** and **shipping products**. I don't just train models; I deploy them.
+
+- 🔭 **Currently working on:** [Manga-Splasher](https://github.com/Parth-Bisht-227/manga-splasher) (Iterating on a Pix2Pix GAN to colorize manga).
+- 🗣️ **Challenge:** Building 10 Voice Agents in 10 Days (Murf AI Challenge).
+- 🇯🇵 **Goal:** Studying for **JLPT N4** & seeking AI Engineering Internships in Tokyo/Remote.
+
+### 🛠️ The Arsenal
+| Domain | Tech Stack |
+| :--- | :--- |
+| **Generative AI** | PyTorch, GANs, Vapi.ai, Diffusion Models, Prompt Engineering |
+| **Engineering** | Python, Streamlit, Java, C++ |
+| **Tools** | Git, Linux, Postman |
+
+---
+*Let's build something cool.*
+[LinkedIn](https://www.linkedin.com/in/parth-bisht-088480282/) • [X (Twitter)](https://twitter.com/Parth_Bisht_227)
