@@ -1,19 +1,21 @@
 # Hi, I'm Parth Bisht. 👋
-### GenAI Engineer & Product Builder.
 
-I bridge the gap between **Deep Learning research** and **shipping products**. I don't just train models; I deploy them.
+### AI Engineer | Agentic AI & Voice Systems
+I'm a builder at heart, passionate about turning **Deep Learning concepts** into **functional, interactive applications**. I love exploring new tech stacks, documenting my learning journey, and moving beyond notebooks to ship working prototypes.
 
-- 🔭 **Currently working on:** [Manga-Splasher](https://github.com/Parth-Bisht-227/manga-splasher) (Iterating on a Pix2Pix GAN to colorize manga).
-- 🗣️ **Challenge:** Building 10 Voice Agents in 10 Days (Murf AI Challenge).
-- 🇯🇵 **Goal:** Studying for **JLPT N5,N4** & seeking AI Engineering Internships in Tokyo/Remote.
+- 🎙️ **Just Shipped:** [Real-Time Agentic Voice Suite](https://github.com/Parth-Bisht-227/voice-agent-murf-falcon-10-day-challenge) — A system of 10 context-aware voice agents with sub-second latency using LiveKit, Deepgram & Silero VAD.
+- 🎨 **Deployed:** [Manga-Splasher](https://manga-splasher.streamlit.app/) — A Pix2Pix GAN deployed on Streamlit for instant manga colorization.
+- 🚀 **Current Focus:** Seeking **AI Engineering Internships** (India/Japan) & leveling up my **Japanese (JLPT N5)**. I'm also actively building cool side projects and creating content around new tech I learn.
 
-### 🛠️ The Arsenal
+### 🛠 The Arsenal
+
 | Domain | Tech Stack |
 | :--- | :--- |
-| **Generative AI** | PyTorch, GANs, Vapi.ai, Diffusion Models, Prompt Engineering |
-| **Engineering** | Python, Streamlit, Java, C++ |
-| **Tools** | Git, Linux, Postman |
+| **Agentic AI & Voice** | LiveKit, Vapi, Deepgram, Silero VAD, OpenAI API, Murf Falcon, Function Calling |
+| **Deep Learning** | PyTorch, TensorFlow, Keras, OpenCV, GANs (Pix2Pix, U-Net), Librosa |
+| **Backend & Systems** | Python, WebSockets, Asyncio, SQLite, Streamlit, Git, Linux |
+| **Languages** | Python, C++, Java, English, Hindi, Japanese (JLPT N5 Learner) |
 
----
-*Let's build something cool.*
-[LinkedIn](https://www.linkedin.com/in/parth-bisht-088480282/) • [X (Twitter)](https://twitter.com/Parth_Bisht_227)
+<br/>
+
+Let's build something cool. [LinkedIn](https://www.linkedin.com/in/parth-bisht-088480282/) • [X (Twitter)](https://x.com/Parth_Bisht_227)
